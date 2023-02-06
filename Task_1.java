@@ -1,4 +1,3 @@
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Random;
 
@@ -43,7 +42,4 @@ public class Task_1 {
         }
     }
 
-    public static void RevertListColl(LinkedList<Integer> listToRevert) {
-        Collections.reverse(listToRevert);
-    }
 }
